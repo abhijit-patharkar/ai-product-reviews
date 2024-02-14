@@ -2,7 +2,7 @@
 
 ## Description
 
-The **AI product-reviews Repository** is a comprehensive compilation of sample AI product reviews from diverse industries and product categories. Whether you're a researcher, developer, or enthusiast, this repository offers valuable insights into customer sentiments and product evaluations.
+The **AI Product Reviews Repository** is a comprehensive compilation of sample AI product reviews from diverse industries and product categories. Whether you're a researcher, developer, or enthusiast, this repository offers valuable insights into customer sentiments and product evaluations.
 
 ## Features
 
