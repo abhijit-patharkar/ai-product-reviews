@@ -1,4 +1,4 @@
-# AI product-reviews Repository
+# AI Product Reviews
 
 ## Description
 
